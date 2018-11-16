@@ -17,16 +17,6 @@ app.use(express.json());
 require("./app/routing/apiRoutes.js");
 require("./app/routing/htmlRoutes.js");
 
-// Basic route that sends the user first to the AJAX Page
-app.get("/", function(req, res) {
-  res.sendFile(path.join(__dirname, "home.html"));
-});
-
-// Basic route that sends the user first to the AJAX Page
-app.get("/survey", function(req, res) {
-  res.sendFile(path.join(__dirname, "survey.html"));
-});
-
 // Start our server so that it can begin listening to client requests.
 app.listen(PORT, function() {
   // Log (server-side) when our server has started

@@ -1,62 +1,52 @@
 var friendsList = [
   {
-    name: "Ahmed",
-    photo:
-      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    name: "Aditya",
+    photo: "https://picsum.photos/200/300/?random",
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   },
   {
-    name: "Ahmed",
-    photo:
-      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    name: "Pawan",
+    photo: "https://picsum.photos/200/300/?random",
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   },
   {
-    name: "Ahmed",
-    photo:
-      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    name: "Shrawan",
+    photo: "https://picsum.photos/200/300/?random",
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   },
   {
-    name: "Ahmed",
-    photo:
-      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    name: "Om",
+    photo: "https://picsum.photos/200/300/?random",
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   },
   {
-    name: "Ahmed",
-    photo:
-      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    name: "Nebhas",
+    photo: "https://picsum.photos/200/300/?random",
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   },
   {
-    name: "Ahmed",
-    photo:
-      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    name: "Gerrardo",
+    photo: "https://picsum.photos/200/300/?random",
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   },
   {
-    name: "Ahmed",
-    photo:
-      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    name: "Michael",
+    photo: "https://picsum.photos/200/300/?random",
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   },
   {
-    name: "Ahmed",
-    photo:
-      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    name: "Kiresh",
+    photo: "https://picsum.photos/200/300/?random",
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   },
   {
-    name: "Ahmed",
-    photo:
-      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    name: "Anjan",
+    photo: "https://picsum.photos/200/300/?random",
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   },
   {
-    name: "Ahmed",
-    photo:
-      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    name: "MinSung",
+    photo: "https://picsum.photos/200/300/?random",
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   }
 ];
