@@ -15,6 +15,28 @@ module.exports = function(app) {
     res.json(friends);
   });
   app.post("/api/friends", function(req, res) {
+    
+    var counterScore = 50;
+    var newFriendScore = req.body.scores;
+    var closestFriend;
+
+
+    for (var i = 0; i < path.length; i++) {
+
+        var currentFriendScore = path[i].scores;
+        var totalScore = 0;
+
+
+        for (var j = 0; j < currentFriendScore.length; j++) {
+            totalScore += Math.abs(currentFriendScore[j] - newFriendScore[j]);
+        }
+
+        if (totalScore <= counterScore) {
+            counterScore = totalScore;
+            closestFriend = path[i];
+        }
+    }
+    path.push(req.body);
     res.json(friends);
   });
 };
