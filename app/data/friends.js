@@ -1,3 +1,4 @@
+// FRIENDS API DATA
 var friendsList = [
   {
     name: "Aditya",
