@@ -1,5 +1,5 @@
 # Friend Finder
-[Check the app](https://friendfindercs.herokuapp.com/)
+[Link to the app](https://friendfindercs.herokuapp.com/)
 
 A compatibility-based application "FriendFinder" 
 1. A dating app which is a full-stack site that takes in results from users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
