@@ -1,4 +1,3 @@
-*Friend-Finder*
 # Friend Finder
 ![alt text](app/public/assets/images/friendfinderphoto.png)
 [Check the app](https://friendfindercs.herokuapp.com/)
